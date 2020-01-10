@@ -3,11 +3,11 @@ MySQLi Database CRUD codes with PHP
 
 
 
-config.php	
-createDatabase.php	
-createTable.php	
-deleteData.php	
-insertData.php
-limitData.php
-selectData.php
-updateData.php
+config.php	<br>
+createDatabase.php	 <br>
+createTable.php	 <br>
+deleteData.php	 <br>
+insertData.php <br>
+limitData.php <br>
+selectData.php <br>
+updateData.php <br>
