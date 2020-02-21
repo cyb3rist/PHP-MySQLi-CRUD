@@ -14,4 +14,3 @@ deleteData.php -	Delete Data From a MySQL Table Using PHP <br>
 getLastIdClause - Get ID of The Last Inserted Database Record Using PHP <br>
 orderByClause - Select and Order Data From a MySQL Database Using PHP <br>
 whereClause - Select and Filter Data From a MySQL Database Using PHP <br>
-
